@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @datasciencewithconnie
-- 👀 I’m interested in Machine Learning, deep learning.
+- 👀 I’m interested in Machine Learning, deep learning and preparing for DS/ML interviews.
 - 📫 How to reach me datasciencewithconnie@gmail.com
 
 <!---
